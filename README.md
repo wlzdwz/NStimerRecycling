@@ -1,2 +1,2 @@
-# NStimerRecycling
-NStimer循环引用解决
+# NSTimerRecycling
+NSTimer循环引用解决
